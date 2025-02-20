@@ -8,7 +8,7 @@ javascript: (async () => {
     if (window.location.hostname == "play.blooket.com") {
         let prizeOptions = {
             "hack":{},
-            "gold":[
+            "gold"val:"<99999999999>",  text:99999 '', blook:"8146320"},
                 {type:'gold',     val:"<NUMBER>",  text: '', blook:"Walrus"},
                 {type:'nothing',  val:0,           text: '', blook:"Walrus"},
                 {type:'multiply', val:"<NUMBER>",  text: '', blook:"Walrus"},
